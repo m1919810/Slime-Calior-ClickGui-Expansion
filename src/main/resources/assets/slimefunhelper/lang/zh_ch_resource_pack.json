@@ -1,0 +1,7 @@
+{
+  "widget.click-gui-style.window": "窗口",
+  "config.index.click-gui.window-widget-style": "窗口组件样式",
+  "slimefunhelper:window": "窗口",
+  "widget.click-gui.module-group-name.WindowClickGui": "ClickGui 扩展",
+  "widget.click-gui.module-name.WindowClickGui.WindowGui": "窗口 ClickGui"
+}

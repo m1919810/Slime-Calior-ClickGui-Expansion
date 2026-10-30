@@ -1,0 +1,9 @@
+{
+  "widget.click-gui-style.window": "Window",
+  "config.index.click-gui.window-widget-style": "Window widget style",
+  "slimefunhelper:window": "Window",
+  "widget.click-gui.module-group-name.WindowClickGui": "ClickGui Addons",
+  "widget.click-gui.module-name.WindowClickGui.WindowGui": "Window ClickGui",
+  "click-gui.window-widget-style.setting": "Window设置",
+  "widget.click-gui.module-name.Tasks.WindowGui": "WindowGui"
+}

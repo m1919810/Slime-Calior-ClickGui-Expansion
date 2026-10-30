@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "slimefun-cailor-clickgui",
+  "version": "${version}",
+  "name": "Slimefun Cailor ClickGui",
+  "description": "The optional Window ClickGui plugin for SlimefunHelper.",
+  "authors": [
+    "matl114"
+  ],
+  "environment": "*",
+  "entrypoints": {
+    "slimefunhelper": [
+      "me.matl114.slimefuncailorclickgui.CailorClickGuiPlugin"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.1 <=1.21.11",
+    "java": ">=21",
+    "fabric-api": "*",
+    "slimefunhelper": "*"
+  }
+}
